@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=Command line control centre
+Name[am]=የ ትእዛዝ መስመር መቆጣጠሪያ ማእከል
+Name[ca]=Centre de control de línia d'ordres
+Name[de]=Kontrollzentrum - Konsolenversion
+Name[el]=Command line control centre
+Name[fr]=Centre de contrôle en ligne de commande
+Name[it]=Centro di controllo della riga di comando
+Name[nl]=Commandoregel controle centrum
+Name[pt]=Centro de Controlo em Terminal
+Name[sv]=Kommandolinje-kontrollpanel
+Comment=All-in-one cli control centre for antiX
+Comment[am]=ሁሉንም-በ-አንድ ላይ cli ለ መቆጣጠሪያ ማዕከል
+Comment[ca]=Centre control CLI tot-en-u per antiX
+Comment[de]=Konsolenversion des alle Konfigurationselemente enthaltenden antiX Kontrollzentrums
+Comment[el]=Κέντρου ελέγχου (cli)
+Comment[fr]=Centre de contrôle tout-en-un en ligne de commande pour antiX
+Comment[it]=Centro di controllo di antiX della riga di comando, tutto in uno
+Comment[nl]=Alles-in-een cli controle centrum voor antiX
+Comment[pt]=Controlo centralizado de todos os programas, específico do antiX (via Terminal)
+Comment[sv]=Allt-i-ett kommandolinje-kontrollpanel för antiX
+Icon=preferences-desktop
+Type=Application
+Terminal=true
+Exec=antiX-cli-cc
+Categories=System;Settings;ConsoleOnly;
+NoDisplay=False

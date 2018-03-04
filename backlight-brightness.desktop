@@ -1,0 +1,27 @@
+[Desktop Entry]
+Name=Backlight Brightness
+Name[am]=የ መደብ ብርሃን ብሩህነት
+Name[ca]=Lluentor de la llum de fons
+Name[de]=Helligkeit Hintergrundbeleuchtung
+Name[el]=Backlight Brightness
+Name[fr]=Luminosité du rétroéclairage
+Name[it]=Luminosità della retroilluminazione
+Name[nl]=Backlight Helderheid
+Name[pt]=Brilho da retroiluminação
+Name[sv]=Bakgrundsbelysningens styrka
+Comment=Interactively adjust the brightness of the backlight from within a terminal
+Comment[am]=የ መደብ ብሩህነት ማስተካከያ ከ ተርሚናል ውስጥ
+Comment[ca]=Ajusta interactivament la lluentor de la llum de fons des del terminal
+Comment[de]=Interaktive Helligkeitseinstellung der Hintergrundbeleuchtung in einem Konsolenfenster
+Comment[el]=Ρυθμίστε τη φωτεινότητα του φωτισμού από ένα τερματικό
+Comment[fr]=Ajuster de manière interactive la luminosité du rétroéclairage depuis un terminal
+Comment[it]=Regola in modo interattivo la luminosità della retroilluminazione attraverso un terminale
+Comment[nl]=Interactief de helderheid van de achtergrondverlichting aanpassen binnen een terminal
+Comment[pt]=Ajusta o brilho da retroiluminação interactivamente (via Terminal)
+Comment[sv]=Justera styrkan på bakgrundsbelysningen interaktivt från en terminal
+Icon=video-display
+Type=Application
+Terminal=true
+Exec=backlight-brightness --pause
+Categories=System;Settings;ConsoleOnly;
+NoDisplay=False

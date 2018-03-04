@@ -1,0 +1,9 @@
+bin/*                 usr/local/bin
+lib/* 			usr/lib/shell
+man/* 		usr/share/man/man1
+90-backlight.rules 	etc/udev/rules.d
+antiX-cli-cc/* 	usr/share/antiX-cli-cc
+locale/* 		usr/share/locale
+antiX-cli-cc.desktop 	usr/share/applications/antix
+backlight-brightness.desktop 	usr/share/applications/antix
+
